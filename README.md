@@ -79,7 +79,3 @@ http://localhost:5000
 ### Model Training
 
 ![Model Training](screenshots/Model%20Training.png)
-
-## Author
-
-Aishwarya Gunaseelan
