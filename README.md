@@ -65,7 +65,6 @@ MLflow Dashboard:
 
 http://localhost:5000
 
-
 ## Screenshots
 
 ### API Prediction
